@@ -1,0 +1,76 @@
+#summary Levantamento sobre o ambiente de gerenciamento e desenvolvimento de projetos da Fábrica de Software - UFG
+
+= Introduction =
+
+A fábrica de software necessita de um ambiente onde cada artefato do projeto produzido seja integrado ao restante do mesmo. Em um nível mais profundo, as ferramentas utilizadas pelos integrantes da equipe devem auxiliar nessa integração.
+
+= Details =
+Para a integração necessária, adotou-se a utilização de ferramentas *[http://pt.wikipedia.org/wiki/Application_lifecycle_management ALM]*. Em essência a equipe da fábrica de software não manterá o software *ALM* em servidores próprios para evitar esforços com configurações e soluções de possíveis problemas.
+A Fábrica de software deve dispor das seguintes ferramentas integradas
+  * Sistema de versionamento de código
+  * Sistema de repositório de tarefas
+  * Sistema de gerenciamento de projetos
+
+Inicialmente serão abordados somente projetos java, divididos em 2(dois) possíveis grupos:
+  * Open-source
+  * Privados
+
+==Open-source==
+Para projetos opensource a escolha é do portal *[http://code.google.com GoogleCode]*. 
+
+As *_vantangens_* da escolha desse portal são:
+  * gratuito
+  * repositório [http://subversion.apache.org/ Subversion]
+  * [http://pt.wikipedia.org/wiki/Wiki wiki]
+  * [http://en.wikipedia.org/wiki/Issue_tracking_system repositório de tarefas]
+  * Integra com eclipse [http://www.eclipse.org/mylyn/ Mylyn](atravéz de [http://code.google.com/p/googlecode-mylyn-connector/ plugin externo])
+
+As *_desvantangens_* da escolha desse portal são:
+  * Não dispõe de ferramentas avançadas para gerenciamento do projeto
+  * Não integra com netbeans
+  * Repositório limitado em 4 Gb.
+
+==Privados==
+Existem várias opções de software *ALM* para projetos privados, todos com várias variáveis.
+===VersionOne===
+====Team Edition====
+Versão gratuita disponibilizada para projetos com até 10 usuários.
+Vantagens:
+  * gratuito
+  * integra com eclipse [http://www.eclipse.org/mylyn/ Mylyn]
+  * disponibiliza plugin para eclipse se comunicar com VersionOne
+  * dispõe de ferramentas avançadas para gerenciamento do projeto
+  * repositório de tarefas
+  * integra com servidor de versionamento de código fonte
+Desvantagens:
+  * não integra com netbeans
+  * não possui servidor de versionamento de código fonte(somente integração)
+  * integrador de versionOne com Subversion, necessita de um servidor(Windows).
+  * somente um projeto por equipe.
+
+====Enterprise Edition====
+Vantagens:
+  * número de projetos ilimitados
+  * integra com eclipse [http://www.eclipse.org/mylyn/ Mylyn]
+  * disponibiliza plugin para eclipse se comunicar com VersionOne
+  * dispõe de ferramentas avançadas para planejamento de projetos ágeis.
+  * repositório de tarefas
+  * integra com servidor de versionamento de código fonte
+Desvantagens:
+  * $29,00/usuário/mes
+  * não integra com netbeans
+  * não possui servidor de versionamento de código fonte(somente integração)
+  * integrador de versionOne com Subversion, necessita de um servidor(Windows).
+  * somente um projeto por equipe.
+
+===Codesion===
+====Personal Small====
+Vantagens:
+  * disponibiliza issueTracker(Trac, bugzilla etc)
+  * disponibiliza sistema SCM(subversion, cvs e git)
+
+Desvantagens:
+  * $34.99/mes até 10 usuários
+  * não integra com eclipse
+  * não integra com netbeans
+  * não oferece serviços de metodologias ágeis
