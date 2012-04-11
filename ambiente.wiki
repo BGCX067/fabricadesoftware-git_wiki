@@ -1,10 +1,10 @@
 #summary Levantamento sobre o ambiente de gerenciamento e desenvolvimento de projetos da Fábrica de Software - UFG
 
-= Introduction =
+=Introdução=
 
 A fábrica de software necessita de um ambiente onde cada artefato do projeto produzido seja integrado ao restante do mesmo. Em um nível mais profundo, as ferramentas utilizadas pelos integrantes da equipe devem auxiliar nessa integração.
 
-= Details =
+=Detalhes =
 Para a integração necessária, adotou-se a utilização de ferramentas *[http://pt.wikipedia.org/wiki/Application_lifecycle_management ALM]*. Em essência a equipe da fábrica de software não manterá o software *ALM* em servidores próprios para evitar esforços com configurações e soluções de possíveis problemas.
 A Fábrica de software deve dispor das seguintes ferramentas integradas
   * Sistema de versionamento de código
