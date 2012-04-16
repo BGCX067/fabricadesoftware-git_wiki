@@ -1,0 +1,20 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Listar possíveis serviços para acompanhamento do ciclo de vida do projeto
+
+
+= Details =
+
+==Assembla Trac==
+
+O plano single é o que mais se aproxima das nossas necessidades. 
+Pelo valor de $19,00 oferece: 
+ # Subversion ou Git
+ # Trac ou próprio repositório de tarefas\
+ # Wiki
+ # Standup
+ # Stream de atividades
+ # Quadro de mensagens
+ # Time Tracking
