@@ -45,3 +45,21 @@ O plano oferece
 Desvantagens
  # Limite de 1GB dos repositórios
  # Desconhecida sua integração com ides eclipse e netbeans
+
+==[https://projectlocker.com/scenario/startup Project Locker]==
+Plano "Venture" de $19,00/mes
+ # Numero ilimitado de repositórios svn
+ # Numero ilimitado de instancias Trac
+ # Trac disponibilizado integra com eclipse e com netbeans
+Desvantagens
+ # Limitado em 15 integrantes
+
+==[http://xp-dev.com/ xp-dev]==
+Plano "Pro-small" $5,00/mes
+ # Numero ilimitado de projetos
+ # Numero ilimitado de usuários
+ # Subversion
+ # Trac disponibilizado integra com eclipse mylyn
+ # Facil escalabilidade, para contratar plano de 5 gb é $ 10,00/mes
+Desvantagens
+ # Trac disponibilizado enfrenta dificuldades na integração com netbeans
