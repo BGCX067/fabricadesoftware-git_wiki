@@ -18,3 +18,7 @@ Pelo valor de $19,00 oferece:
  # Stream de atividades
  # Quadro de mensagens
  # Time Tracking
+Suas desvantagens são:
+ # Limite de 2Gb por repositorio
+ # Gerenciamento de somente 1 projeto
+ # Limite de 20 usuários
