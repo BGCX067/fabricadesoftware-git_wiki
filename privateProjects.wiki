@@ -31,3 +31,16 @@ O plano "Level Two" $6.95/month
  # Número ilimitado de usuários
 Suas desvantagens:
  # Desconhecida sua integração com ides eclipse e netbeans
+
+==[http://www.hosted-projects.com/index.php?option=com_content&view=article&id=12&Itemid=31 Hosted-projects]==
+O plano "Plan Team" pelos preços:
+ * 1 Mes: $ 15,00
+ * 3 Meses: $ 40,00
+ * 6 Meses: $ 75,00
+
+O plano oferece
+ # Número ilimitado de respositórios svn/trac
+ # Número ilimitado de desenvolvedores
+ # No site informa: Your own, private Bugzilla installation
+Desvantagens
+ # Limite de 1GB dos repositórios
