@@ -22,3 +22,10 @@ O plugin mylyn-eclipse é um dos produtos mais completos de desenvolvimento foca
  # Clique em "Validate settings" e se os dados forem válidos, clique em "finish".
 
 = Acesso a todas tarefas ativas =
+ # Clique em "Window => Show View => Other"
+ # Selecione "Mylyn" e clique em "Task List"
+ # A janela "Task List" será exibida, clique com botao direito e selecione "New => Query"
+ # A janela "New Query" será exibida, selecione o repositório Trac adicionado e clique em next.
+ # Informe um titulo para a query em "Query Title"
+ # Selecione todos status, com excessão de "closed"
+ # Na opção "Owner" mude a opção de filtro para "is", informe seu usuário, clique em "finish", pronto, sua query esta configurada
