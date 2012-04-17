@@ -63,3 +63,23 @@ Plano "Pro-small" $5,00/mes
  # Facil escalabilidade, para contratar plano de 5 gb é $ 10,00/mes
 Desvantagens
  # Trac disponibilizado enfrenta dificuldades na integração com netbeans
+
+==[http://www.myversioncontrol.com/prices/ MyVersionControl]==
+Plano "ENTERPRISE 10" de $20,00
+ # Subversion
+ # Trac
+Desvantangens
+ # Limitado em 10 usuários
+ # Limitado em 10 projetos
+ # Limitado em 10 Gb
+ # Desconhecida sua integração com ides eclipse e netbeans
+
+==[http://sourcerepo.com/ SourceRepo]==
+Plano "Level 2" de $6,95/mes
+ # Numero de repositorios Svn ilimitados
+ # Numero de instancias Trac ilimitados
+ # Numero de instancias Redmine ilimitados
+ # Numero de usuários ilimitados
+ # Facil escalabilidade pois podemos aumentar para 3GB de espaço por $12,95/mes
+Desvantagens
+ # Limitado em 1 GB
