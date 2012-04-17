@@ -83,3 +83,4 @@ Plano "Level 2" de $6,95/mes
  # Facil escalabilidade pois podemos aumentar para 3GB de espaço por $12,95/mes
 Desvantagens
  # Limitado em 1 GB
+ # Desconhecida sua integração com ides eclipse e netbeans
