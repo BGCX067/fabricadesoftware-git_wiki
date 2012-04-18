@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Configuração de Cubeon com um servidor Trac
 
 =Pré Requisitos=
  * Netbeans 6.5 ou superior
