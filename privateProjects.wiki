@@ -1,11 +1,6 @@
-#summary One-sentence summary of this page.
+#summary Listar possíveis serviços para acompanhamento do ciclo de vida do projeto
 
-= Introduction =
-
-Listar possíveis serviços para acompanhamento do ciclo de vida do projeto
-
-
-= Details =
+= Conjunto de opções para projetos privados =
 
 ==[http://www.assembla.com/plans Assembla Trac]==
 O plano single é o que mais se aproxima das nossas necessidades. 
