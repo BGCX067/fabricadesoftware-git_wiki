@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Configuração do mylyn com um servidor Trac
 
 = Instalação =
 Nas ultimas versões do eclipse, o Mylyn é um plugin nativo, portanto, não precisa de instalação. 
