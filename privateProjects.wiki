@@ -90,3 +90,12 @@ Desvantagem
  # Não integra com netbeans
  # Limita 20 repositorios git
  # Limita 10 usuários
+
+==[https://bitbucket.org/plans BitBucket]==
+Plano de 10 usuários por $10,00/mes
+ # Espaço ilimitado
+ # git e mercurial
+ # wiki
+ # issue tracker
+Desvantagens
+ # nao integra com netbeans
