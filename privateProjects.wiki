@@ -79,3 +79,14 @@ Plano "Level 2" de $6,95/mes
 Desvantagens
  # Limitado em 1 GB
  # Desconhecida sua integração com ides eclipse e netbeans
+
+==[https://github.com/plans GitHub]==
+Plano mediun $22,00/mes
+ # Git
+ # Wiki
+ # Issue tracker com integração com eclipse
+ # 3 gráficos funcionais por conta de usuário
+Desvantagem
+ # Não integra com netbeans
+ # Limita 20 repositorios git
+ # Limita 10 usuários
