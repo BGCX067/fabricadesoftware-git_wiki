@@ -80,6 +80,10 @@ Desvantagens
  # Limitado em 1 GB
  # Desconhecida sua integração com ides eclipse e netbeans
 
+==[http://www.atlassian.com/software/jira/overview?_mid=cdfe7013ff6b36bac140ef185060a568&gclid=CNr7uZLww68CFZFR7Aod5gxWbA Jira]==
+Limitado em 10 usuários por $10,00/mes
+Não possui serviço SCM, somente um [http://www.atlassian.com/software/fisheye/overview integrador], que também é pago
+
 ==[https://github.com/plans GitHub]==
 Plano mediun $22,00/mes
  # Git
