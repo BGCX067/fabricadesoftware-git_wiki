@@ -5,27 +5,27 @@
 ==[http://www.assembla.com/plans Assembla Trac]==
 O plano single é o que mais se aproxima das nossas necessidades. 
 Pelo valor de $19,00 oferece: 
- # Subversion ou Git
- # Trac ou próprio repositório de tarefas\
- # Wiki
- # Standup
- # Stream de atividades
- # Quadro de mensagens
- # Time Tracking
- # Trac disponibilizado integra com eclipse e com netbeans
+ * Subversion ou Git
+ * Trac ou próprio repositório de tarefas\
+ * Wiki
+ * Standup
+ * Stream de atividades
+ * Quadro de mensagens
+ * Time Tracking
+ * Trac disponibilizado integra com eclipse e com netbeans
 Suas desvantagens são:
- # Limite de 2Gb por repositorio
- # Gerenciamento de somente 1 projeto
- # Limite de 20 usuários
+ * Limite de 2Gb por repositorio
+ * Gerenciamento de somente 1 projeto
+ * Limite de 20 usuários
 
 ==[http://www.svnrepository.com/ SubversionHosting]==
 O plano "Level Two" $6.95/month
- # Repositório de código fonte ilimitado
- # Numero ilimitado de repositório Trac
- # Numero ilimitado de repositório Redmine
- # Número ilimitado de usuários
+ * Repositório de código fonte ilimitado
+ * Numero ilimitado de repositório Trac
+ * Numero ilimitado de repositório Redmine
+ * Número ilimitado de usuários
 Suas desvantagens:
- # Desconhecida sua integração com ides eclipse e netbeans
+ * Desconhecida sua integração com ides eclipse e netbeans
 
 ==[http://www.hosted-projects.com/index.php?option=com_content&view=article&id=12&Itemid=31 Hosted-projects]==
 O plano "Team" pelos preços:
@@ -34,72 +34,72 @@ O plano "Team" pelos preços:
  * 6 Meses: $ 75,00
 
 O plano oferece
- # Número ilimitado de respositórios svn/trac
- # Número ilimitado de desenvolvedores
- # No site informa: Your own, private Bugzilla installation
+ * Número ilimitado de respositórios svn/trac
+ * Número ilimitado de desenvolvedores
+ * No site informa: Your own, private Bugzilla installation
 Desvantagens
- # Limite de 1GB dos repositórios
- # Desconhecida sua integração com ides eclipse e netbeans
+ * Limite de 1GB dos repositórios
+ * Desconhecida sua integração com ides eclipse e netbeans
 
 ==[https://projectlocker.com/scenario/startup Project Locker]==
 Plano "Venture" de $19,00/mes
- # Numero ilimitado de repositórios svn
- # Numero ilimitado de instancias Trac
- # Trac disponibilizado integra com eclipse e com netbeans
+ * Numero ilimitado de repositórios svn
+ * Numero ilimitado de instancias Trac
+ * Trac disponibilizado integra com eclipse e com netbeans
 Desvantagens
- # Limitado em 15 integrantes
+ * Limitado em 15 integrantes
 
 ==[http://xp-dev.com/ xp-dev]==
 Plano "Pro-small" $5,00/mes
- # Numero ilimitado de projetos
- # Numero ilimitado de usuários
- # Subversion
- # Trac disponibilizado integra com eclipse mylyn
- # Facil escalabilidade, para contratar plano de 5 gb é $ 10,00/mes
+ * Numero ilimitado de projetos
+ * Numero ilimitado de usuários
+ * Subversion
+ * Trac disponibilizado integra com eclipse mylyn
+ * Facil escalabilidade, para contratar plano de 5 gb é $ 10,00/mes
 Desvantagens
- # Trac disponibilizado enfrenta dificuldades na integração com netbeans
+ * Trac disponibilizado enfrenta dificuldades na integração com netbeans
 
 ==[http://www.myversioncontrol.com/prices/ MyVersionControl]==
 Plano "ENTERPRISE 10" de $20,00
- # Subversion
- # Trac
+ * Subversion
+ * Trac
 Desvantangens
- # Limitado em 10 usuários
- # Limitado em 10 projetos
- # Limitado em 10 Gb
- # Desconhecida sua integração com ides eclipse e netbeans
+ * Limitado em 10 usuários
+ * Limitado em 10 projetos
+ * Limitado em 10 Gb
+ * Desconhecida sua integração com ides eclipse e netbeans
 
 ==[http://sourcerepo.com/ SourceRepo]==
 Plano "Level 2" de $6,95/mes
- # Numero de repositorios Svn ilimitados
- # Numero de instancias Trac ilimitados
- # Numero de instancias Redmine ilimitados
- # Numero de usuários ilimitados
- # Facil escalabilidade pois podemos aumentar para 3GB de espaço por $12,95/mes
+ * Numero de repositorios Svn ilimitados
+ * Numero de instancias Trac ilimitados
+ * Numero de instancias Redmine ilimitados
+ * Numero de usuários ilimitados
+ * Facil escalabilidade pois podemos aumentar para 3GB de espaço por $12,95/mes
 Desvantagens
- # Limitado em 1 GB
- # Desconhecida sua integração com ides eclipse e netbeans
+ * Limitado em 1 GB
+ * Desconhecida sua integração com ides eclipse e netbeans
 
 ==[http://www.atlassian.com/software/jira/overview?_mid=cdfe7013ff6b36bac140ef185060a568&gclid=CNr7uZLww68CFZFR7Aod5gxWbA Jira]==
-Limitado em 10 usuários por $10,00/mes
+Limitado em 10 usuários por $10,00/mes.
 Não possui serviço SCM, somente um [http://www.atlassian.com/software/fisheye/overview integrador], que também é pago
 
 ==[https://github.com/plans GitHub]==
 Plano mediun $22,00/mes
- # Git
- # Wiki
- # Issue tracker com integração com eclipse
- # 3 gráficos funcionais por conta de usuário
+ * Git
+ * Wiki
+ * Issue tracker com integração com eclipse
+ * 3 gráficos funcionais por conta de usuário
 Desvantagem
- # Não integra com netbeans
- # Limita 20 repositorios git
- # Limita 10 usuários
+ * Não integra com netbeans
+ * Limita 20 repositorios git
+ * Limita 10 usuários
 
 ==[https://bitbucket.org/plans BitBucket]==
 Plano de 10 usuários por $10,00/mes
- # Espaço ilimitado
- # git e mercurial
- # wiki
- # issue tracker
+ * Espaço ilimitado
+ * git e mercurial
+ * wiki
+ * issue tracker
 Desvantagens
- # nao integra com netbeans
+ * nao integra com netbeans
