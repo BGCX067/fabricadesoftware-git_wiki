@@ -2,7 +2,7 @@
 
 =Detalhes =
 Nos projetos Java serão utilizados:
- * IDEs: [http://www.eclipse.org/ Netbeans] ou [http://http://www.eclipse.org/ Eclipse]
+ * IDEs: [http://www.eclipse.org/ Netbeans] ou [http://www.eclipse.org/ Eclipse]
  * Ferramenta de versionamento de código fonte
  * Ferramenta de repositório de tarefas
  * Ferramenta de wiki
