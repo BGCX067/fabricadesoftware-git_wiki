@@ -3,8 +3,8 @@
 =Detalhes =
 Nos projetos Java serão utilizados:
  * IDEs: [http://netbeans.org/ Netbeans] ou [http://www.eclipse.org/ Eclipse]
- * Mylyn - Conecta [http://www.eclipse.org/ Eclipse] ao repositório de tarefas
- * Cubeon - Conecta [http://netbeans.org/ Netbeans] ao repositório de tarefas
+ * [http://code.google.com/p/fabricadesoftware/wiki/IntegracoesMylyn Mylyn] - Conecta [http://www.eclipse.org/ Eclipse] ao repositório de tarefas
+ * [http://code.google.com/p/fabricadesoftware/wiki/IntegracoesCubeonNetbeans Cubeon] - Conecta [http://netbeans.org/ Netbeans] ao repositório de tarefas
  * Ferramenta de versionamento de código fonte
  * Ferramenta de repositório de tarefas
  * Ferramenta de wiki
