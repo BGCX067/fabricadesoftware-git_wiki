@@ -18,15 +18,6 @@ Suas desvantagens são:
  * Gerenciamento de somente 1 projeto
  * Limite de 20 usuários
 
-==[http://www.svnrepository.com/ SubversionHosting]==
-O plano "Level Two" $6.95/month
- * Repositório de código fonte ilimitado
- * Numero ilimitado de repositório Trac
- * Numero ilimitado de repositório Redmine
- * Número ilimitado de usuários
-Suas desvantagens:
- * Desconhecida sua integração com ides eclipse e netbeans
-
 ==[http://www.hosted-projects.com/index.php?option=com_content&view=article&id=12&Itemid=31 Hosted-projects]==
 O plano "Team" pelos preços:
  * 1 Mes: $ 15,00
