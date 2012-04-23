@@ -13,3 +13,54 @@ As ferramentas de versionamento de código fonte, repositório de tarefas e wiki
 Para projetos opensource sera utilizado os serviços do *[http://code.google.com GoogleCode]*. O [http://code.google.com GoogleCode] oferece repositório [http://subversion.apache.org/ Subversion], [http://pt.wikipedia.org/wiki/Wiki wiki] e [http://en.wikipedia.org/wiki/Issue_tracking_system repositório de tarefas]. O repositório de tarefas integra com eclipse [http://www.eclipse.org/mylyn/ Mylyn] via [http://code.google.com/p/googlecode-mylyn-connector/ plugin externo]. As principais desvantagens são o portal não disponibiliza ferramentas avançadas para gerenciamento de projeto e que o repositório de tarefas não integra com Netbeans.
 
 ==Privados==
+===[http://www.assembla.com/plans Assembla Trac]===
+O plano single é o que mais se aproxima das nossas necessidades. 
+Pelo valor de $19,00 oferece: 
+ * Subversion ou Git
+ * Trac ou próprio repositório de tarefas\
+ * Wiki
+ * Standup
+ * Stream de atividades
+ * Quadro de mensagens
+ * Time Tracking
+ * Trac disponibilizado integra com eclipse e com netbeans
+Suas desvantagens são:
+ * Limite de 2Gb por repositorio
+ * Gerenciamento de somente 1 projeto
+ * Limite de 20 usuários
+
+===[http://www.hosted-projects.com/index.php?option=com_content&view=article&id=12&Itemid=31 Hosted-projects]===
+O plano "Team" pelos preços:
+ * 1 Mes: $ 15,00
+ * 3 Meses: $ 40,00
+ * 6 Meses: $ 75,00
+
+O plano oferece
+ * Número ilimitado de respositórios svn/trac
+ * Número ilimitado de desenvolvedores
+ * No site informa: Your own, private Bugzilla installation
+ * Integra com eclipse-mylyn e netbeans-cubeon
+Desvantagens
+ * Limite de 1GB dos repositórios
+
+===[https://projectlocker.com/scenario/startup Project Locker]===
+Plano "Venture" de $19,00/mes
+ * Numero ilimitado de repositórios svn
+ * Numero ilimitado de instancias Trac
+ * Trac disponibilizado integra com eclipse e com netbeans
+Desvantagens
+ * Limitado em 15 integrantes
+
+===[http://xp-dev.com/ xp-dev]===
+Plano "Pro-small" $5,00/mes
+ * Numero ilimitado de projetos
+ * Numero ilimitado de usuários
+ * Subversion
+ * Trac disponibilizado integra com eclipse mylyn
+ * Facil escalabilidade, para contratar plano de 5 gb é $ 10,00/mes
+Desvantagens
+ * Trac disponibilizado enfrenta dificuldades na integração com netbeans
+
+===[http://www.atlassian.com/software/jira/overview?_mid=cdfe7013ff6b36bac140ef185060a568&gclid=CNr7uZLww68CFZFR7Aod5gxWbA Jira]===
+Limitado em 10 usuários por $10,00/mes.
+Não possui serviço SCM, somente um [http://www.atlassian.com/software/fisheye/overview integrador], que também é pago
