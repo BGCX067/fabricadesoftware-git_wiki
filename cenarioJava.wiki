@@ -7,7 +7,7 @@ Nos projetos Java serão utilizados:
  * Ferramenta de repositório de tarefas
  * Ferramenta de wiki
 
-As ferramentas de versionamento de código fonte, repositório de tarefas e wiki são disponibilizados via contratação de um fornecedor de serviço, baseado em duas condições, se o projeto é openSource ou privado.
+As ferramentas de versionamento de código fonte, repositório de tarefas e wiki são disponibilizados via contratação de um fornecedor, baseado em duas condições, se o projeto é openSource ou privado.
 
 ==Open-source==
 Para projetos opensource sera utilizado o serviço do *[http://code.google.com GoogleCode]*. O GoogleCode oferece repositório [http://subversion.apache.org/ Subversion], [http://pt.wikipedia.org/wiki/Wiki wiki] e [http://en.wikipedia.org/wiki/Issue_tracking_system repositório de tarefas]. O repositório de tarefas integra com eclipse [http://www.eclipse.org/mylyn/ Mylyn] via [http://code.google.com/p/googlecode-mylyn-connector/ plugin externo]. As principais desvantagens são o portal não disponibiliza ferramentas avançadas para gerenciamento de projeto e que o repositório de tarefas não integra com Netbeans.
