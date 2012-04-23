@@ -28,9 +28,9 @@ O plano oferece
  * Número ilimitado de respositórios svn/trac
  * Número ilimitado de desenvolvedores
  * No site informa: Your own, private Bugzilla installation
+ * Integra com eclipse-mylyn e netbeans-cubeon
 Desvantagens
  * Limite de 1GB dos repositórios
- * Desconhecida sua integração com ides eclipse e netbeans
 
 ==[https://projectlocker.com/scenario/startup Project Locker]==
 Plano "Venture" de $19,00/mes
