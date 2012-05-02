@@ -1,10 +1,7 @@
 #summary Documentação do conjunto de ferramentas utilizadas em projetos Java
 
 =Detalhes =
-Nos projetos Java serão utilizados:
- * IDEs: [http://netbeans.org/ Netbeans] ou [http://www.eclipse.org/ Eclipse]
- * [http://code.google.com/p/fabricadesoftware/wiki/IntegracoesMylyn Mylyn] - Conecta [http://www.eclipse.org/ Eclipse] ao repositório de tarefas
- * [http://code.google.com/p/fabricadesoftware/wiki/IntegracoesCubeonNetbeans Cubeon] - Conecta [http://netbeans.org/ Netbeans] ao repositório de tarefas
+Na maioria dos projetos serão utilizados:
  * Ferramenta de versionamento de código fonte
  * Ferramenta de repositório de tarefas
  * Ferramenta de wiki
