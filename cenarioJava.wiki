@@ -6,7 +6,7 @@
 Como ferramenta de build automático utilizaremos o [http://maven.apache.org/ Apache Maven] licençiado sob [http://maven.apache.org/license.html Apache Software License]
 
 ==Versionador de código fonte==
-Como de versionador de código fonte utilizaremos o [http://subversion.apache.org/ subversion] licençiado sob [http://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0]. São conhecidos outros versionadores, contudo, devido a alta aceitação do mercado e alta integração das ferramentas, o subversion foi selecionado.
+O versionador de código fonte utilizado será o [http://subversion.apache.org/ subversion] licençiado sob [http://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0]. São conhecidos outros versionadores, contudo, devido a alta aceitação do mercado e alta integração das ferramentas, o subversion foi selecionado.
 
 ==IDE e integradores==
 Nos projetos Java serão utilizados:
