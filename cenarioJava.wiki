@@ -23,7 +23,7 @@ As possíveis ferramentas de integração continua da fábrica de software são:
 
 ==Qualidade de software==
 O serviço responsável pela análise da qualidade do código fonte será mantido nos servidores da [http://fs.inf.ufg.br/ Fábrica de Software] devido aos altos valores cobrados para utilizarmos esse recurso nas nuvens.
- 
+
 Como ferramenta de qualidade de software, utilizamos o  sonar. 
 O Sonar é uma ferramenta opensource para gerenciamento de qualidade sob licença [http://www.gnu.org/licenses/lgpl-2.1.html LGPL].
 O sonar se integra nativamente com o maven e com vários servidores de integração continua, entre eles Hudson, Jenkins, Cruisecontrol e TeamCity. O sonar cobre os 7(sete) pilares da qualidade de código:
