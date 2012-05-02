@@ -32,7 +32,7 @@ As possíveis ferramentas de integração continua da fábrica de software são:
   * 1 agente com trabalhos ilimitados por $ 50,00/mês
 
 ==Qualidade de software==
-^fonte: www.sonarsource.com^
+^fonte: http://www.sonarsource.com^
 
 
 O serviço responsável pela análise da qualidade do código fonte será mantido nos servidores da [http://fs.inf.ufg.br/ Fábrica de Software] devido aos altos valores cobrados para utilizarmos esse recurso nas nuvens.
