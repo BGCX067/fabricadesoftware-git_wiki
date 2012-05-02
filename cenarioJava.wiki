@@ -42,3 +42,18 @@ O sonar se integra nativamente com o maven e com vários servidores de integraç
  * Arquitetura e design
 
 e com o auxilio de plug-ins(Cada plug-in deve ser observado a licença) essa analise de qualidade pode ser extendida a outras plataformas como .Net, Php, Delphi etc.
+
+,,fonte: [www.sonarsource.com sonarsource],,
+
+==Gestores de repositório maven==
+Os gestores de repositório servem a dois propósitos:
+ * Agir como meio configurável entre a organização e os repositório públicos do maven.
+ * Meio de organizar os próprios artefatos produzidos pela organização.
+
+A ferramenta de gestão de repositórios maven será mantida nos servidores da [http://fs.inf.ufg.br/ Fábrica de Software] devido aos altos valores cobrados para utilizarmos esse recurso nas nuvens.
+
+O Maven reconhece 3(três) gestores de repositórios:
+ * [http://nexus.sonatype.org/ Nexus] sob licença [http://www.eclipse.org/legal/epl-v10.html EPL-v10]
+ * [http://www.jfrog.org/sites/artifactory/latest/ Artifactory] sob licença [http://www.gnu.org/licenses/lgpl-3.0.html LGPL-v3.0]
+ * [http://archiva.apache.org/ Archiva] sob licença [http://www.apache.org/licenses/  Apache License, version 2.0]
+,,fonte: [http://maven.apache.org Apache Maven],,
