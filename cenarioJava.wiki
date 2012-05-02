@@ -2,6 +2,8 @@
 
 =Ambiente java=
 
+==Build automático==
+Como ferramenta de build automático utilizaremos o [http://maven.apache.org/ Apache Maven] licençiado sob [http://maven.apache.org/license.html Apache Software License]
 ==IDE e integradores==
 Nos projetos Java serão utilizados:
  * IDEs: [http://netbeans.org/ Netbeans] ou [http://www.eclipse.org/ Eclipse]
