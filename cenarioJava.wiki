@@ -12,7 +12,7 @@ Diante do problema da descoberta tardia de um erro, a solução seria a verifica
 A Fábrica de Software enfrenta esse problema com ferramenta de integração continua. A verificação de consistencia do código fonte é executada automaticamente sempre após uma contribuição identificando os erros e agilizando o processo de solução do problema.
 
 As possíveis ferramentas de integração continua da fábrica de software são:
- * Hudson: licençiado sob MIT license. Hudson disponibiliza várias versões para utilização, existem as versões nativas para SOs selecionados e a versão "war" para um servidor de containers.Os plugins para subversion e maven fazem parte do núcleo do hudson, portanto, são distribuidos juntamente com o Hudson, bastando configura-los.
- * Jenkins: licençiado sob Creative Commons Attribution 3.0 Unported Lecense. Jenkins disponibiliza várias versões para utilização, existem as versões nativas para SOs selecionados e a versão "war" para um servidor de containers. Os plugins para subversion e maven fazem parte do núcleo do Jenkins, portanto, são distribuidos juntamente com o Jenkins, bastando configura-los.
- * CruiseControl: licençiado sob uma liçenca BSD-style
- * TeamCity: licençiado sob Professional Server License
+ * [http://hudson-ci.org/ Hudson]: licençiado sob MIT license. Hudson disponibiliza várias versões para utilização, existem as versões nativas para SOs selecionados e a versão "war" para um servidor de containers.Os plugins para subversion e maven fazem parte do núcleo do hudson, portanto, são distribuidos juntamente com o Hudson, bastando configura-los.
+ * [http://jenkins-ci.org/ Jenkins]: licençiado sob Creative Commons Attribution 3.0 Unported Lecense. Jenkins disponibiliza várias versões para utilização, existem as versões nativas para SOs selecionados e a versão "war" para um servidor de containers. Os plugins para subversion e maven fazem parte do núcleo do Jenkins, portanto, são distribuidos juntamente com o Jenkins, bastando configura-los.
+ * [http://cruisecontrol.sourceforge.net/ CruiseControl]: licençiado sob uma liçenca BSD-style
+ * [http://www.jetbrains.com/teamcity/ TeamCity]: licençiado sob Professional Server License
