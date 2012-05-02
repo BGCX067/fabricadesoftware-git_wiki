@@ -1,6 +1,8 @@
 #summary Documentação do conjunto de ferramentas utilizadas em projetos Java
 
 =Ambiente java=
+
+==IDE e integradores==
 Nos projetos Java serão utilizados:
  * IDEs: [http://netbeans.org/ Netbeans] ou [http://www.eclipse.org/ Eclipse]
  * [http://code.google.com/p/fabricadesoftware/wiki/IntegracoesMylyn Mylyn] - Conecta [http://www.eclipse.org/ Eclipse] ao repositório de tarefas
@@ -16,3 +18,17 @@ As possíveis ferramentas de integração continua da fábrica de software são:
  * [http://jenkins-ci.org/ Jenkins]: licençiado sob Creative Commons Attribution 3.0 Unported Lecense. Jenkins disponibiliza várias versões para utilização, existem as versões nativas para SOs selecionados e a versão "war" para um servidor de containers. Os plugins para subversion e maven fazem parte do núcleo do Jenkins, portanto, são distribuidos juntamente com o Jenkins, bastando configura-los.
  * [http://cruisecontrol.sourceforge.net/ CruiseControl]: licençiado sob uma liçenca BSD-style
  * [http://www.jetbrains.com/teamcity/ TeamCity]: licençiado sob Professional Server License
+
+==Qualidade de software==
+Como ferramenta de qualidade de software, utilizamos o  sonar. 
+O Sonar é uma ferramenta opensource para gerenciamento de qualidade sob licença [http://www.gnu.org/licenses/lgpl-2.1.html LGPL].
+O sonar se integra nativamente com o maven e com vários servidores de integração continua, entre eles Hudson, Jenkins, Cruisecontrol e TeamCity. O sonar cobre os 7(sete) pilares da qualidade de código:
+ * Comentários
+ * Regras de código fonte
+ * Possíveis erros
+ * Complexidade
+ * Testes unitários
+ * Duplicidade
+ * Arquitetura e design
+
+e com o auxilio de plug-ins(Cada plug-in deve ser observado a licença) essa analise de qualidade pode ser extendida a outras plataformas como .Net, Php, Delphi etc.
