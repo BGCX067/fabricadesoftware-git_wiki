@@ -32,7 +32,9 @@ As possíveis ferramentas de integração continua da fábrica de software são:
   * 1 agente com trabalhos ilimitados por $ 50,00/mês
 
 ==Qualidade de software==
-^^fonte: www.sonarsource.com^^
+^fonte: www.sonarsource.com^
+
+
 O serviço responsável pela análise da qualidade do código fonte será mantido nos servidores da [http://fs.inf.ufg.br/ Fábrica de Software] devido aos altos valores cobrados para utilizarmos esse recurso nas nuvens.
 
 Como ferramenta de qualidade de software, utilizamos o  sonar. 
@@ -49,7 +51,8 @@ O sonar se integra nativamente com o maven e com vários servidores de integraç
 e com o auxilio de plug-ins(Cada plug-in deve ser observado a licença) essa analise de qualidade pode ser extendida a outras plataformas como .Net, Php, Delphi etc.
 
 ==Gestores de repositório maven==
-^^fonte: http://maven.apache.org^^
+^fonte: http://maven.apache.org^
+
 Os gestores de repositório servem a dois propósitos:
  * Agir como meio configurável entre a organização e os repositório públicos do maven.
  * Meio de organizar os próprios artefatos produzidos pela organização.
