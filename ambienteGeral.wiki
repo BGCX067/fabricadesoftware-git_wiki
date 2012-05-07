@@ -9,14 +9,14 @@ Na maioria dos projetos serão utilizados:
 As ferramentas de versionamento de código fonte, repositório de tarefas e wiki são disponibilizadas via contratação de um fornecedor, baseado em duas condições, se o projeto é openSource ou privado.
 
 ==Open-source==
+^atualizado em 07/05/2012^<br>
 Para projetos opensource utilizamos os serviços do *[http://code.google.com GoogleCode]*. O [http://code.google.com GoogleCode] oferece repositório [http://subversion.apache.org/ Subversion], [http://pt.wikipedia.org/wiki/Wiki wiki] e [http://en.wikipedia.org/wiki/Issue_tracking_system repositório de tarefas]. As principais desvantagens são:
  # não disponibiliza ferramentas avançadas para gerenciamento de projeto
  # repositório de tarefas não integra com Netbeans.
 
 ==Privados==
 ===[http://www.assembla.com/plans Assembla Trac]===
-^atualizado em 07/05/2012^
-
+^atualizado em 07/05/2012^<br>
 O plano single é o que mais se aproxima das nossas necessidades. 
 Pelo valor de $19,00 oferece: 
  * Subversion ou Git
@@ -33,7 +33,7 @@ Suas desvantagens são:
  * Limite de 20 usuários
 
 ===[http://www.hosted-projects.com/index.php?option=com_content&view=article&id=12&Itemid=31 Hosted-projects]===
-^atualizado em 07/05/2012^
+^atualizado em 07/05/2012^<br>
 O plano "Team" pelos preços:
  * 1 Mês: $ 15,00
  * 3 Meses: $ 40,00
@@ -48,7 +48,7 @@ Desvantagens
  * Limite de 1GB dos repositórios
 
 ===[https://projectlocker.com/scenario/startup Project Locker]===
-^atualizado em 07/05/2012^
+^atualizado em 07/05/2012^<br>
 Plano "Venture" de $19,00/mês
  * Numero ilimitado de repositórios svn
  * Numero ilimitado de instancias Trac
@@ -57,7 +57,7 @@ Desvantagens
  * Limitado em 15 integrantes
 
 ===[http://xp-dev.com/pricing xp-dev]===
-^atualizado em 07/05/2012^
+^atualizado em 07/05/2012^<br>
 Plano "Pro-small" $5,00/mês
  * Numero ilimitado de projetos
  * Numero ilimitado de usuários
@@ -68,6 +68,6 @@ Desvantagens
  * Trac disponibilizado enfrenta dificuldades na integração com netbeans
 
 ===[http://www.atlassian.com/software/jira/overview?_mid=cdfe7013ff6b36bac140ef185060a568&gclid=CNr7uZLww68CFZFR7Aod5gxWbA Jira]===
-^atualizado em 07/05/2012^
+^atualizado em 07/05/2012^<br>
 Limitado em 10 usuários por $10,00/mes.
 Não disponibiliza repositório subversion, contudo, oferece [https://plugins.atlassian.com/plugins/com.atlassian.jira.plugin.ext.subversion plug-in de integração] gratuito sob a [http://www.opensource.org/licenses/bsd-license.php licença OSI] e o serviço [http://www.atlassian.com/software/fisheye/overview FishEye], que também é pago.
