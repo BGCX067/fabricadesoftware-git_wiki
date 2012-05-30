@@ -55,5 +55,8 @@ A ferramenta de gestão de repositórios maven será mantida nos servidores da [
 
 O Maven reconhece 3(três) gestores de repositórios:
  * [http://nexus.sonatype.org/ Nexus] sob licença [http://www.eclipse.org/legal/epl-v10.html EPL-v10]
+  NEXUS OPEN SOURCE: Hosting repositories,Proxy remote repositories, Repository groups, Granular security model, Artifact search, Schedeuled tasks, REST Services, Nexus API plugin.
+  <br/>NEXUS PROFESSIONAL: LDAP Integration, Nexus Procurement Suite, Nexus Staging Suite, Maven Settings Management, Artifact Validation and Verification
+
  * [http://www.jfrog.org/sites/artifactory/latest/ Artifactory] sob licença [http://www.gnu.org/licenses/lgpl-3.0.html LGPL-v3.0]. Na experiencia com essa ferramenta, ela substituiu o [http://archiva.apache.org/ Archiva]
  * [http://archiva.apache.org/ Archiva] sob licença [http://www.apache.org/licenses/  Apache License, version 2.0]. Já tivemos experiência negativa com ele, com falhas grosseiras no comportamento do software.
