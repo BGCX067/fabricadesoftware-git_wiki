@@ -24,12 +24,6 @@ A Fábrica de Software enfrenta esse problema com ferramenta de integração con
 As possíveis ferramentas de integração continua da fábrica de software são:
  * [http://hudson-ci.org/ Hudson]: licençiado sob MIT license. Hudson disponibiliza várias versões para utilização, existem as versões nativas para SOs selecionados e a versão "war" para um servidor de containers.Os plugins para subversion e maven fazem parte do núcleo do hudson, portanto, são distribuidos juntamente com o Hudson, bastando configura-los.
  * [http://jenkins-ci.org/ Jenkins]: licençiado sob Creative Commons Attribution 3.0 Unported Lecense. Jenkins disponibiliza várias versões para utilização, existem as versões nativas para SOs selecionados e a versão "war" para um servidor de containers. Os plugins para subversion e maven fazem parte do núcleo do Jenkins, portanto, são distribuidos juntamente com o Jenkins, bastando configura-los.
- * [http://cruisecontrol.sourceforge.net/ CruiseControl]: licençiado sob uma liçenca BSD-style
- * [http://www.jetbrains.com/teamcity/ TeamCity]: sob licença [http://www.jetbrains.com/teamcity/download/professional_server_license.jsp Professional Server License]
- * [http://continuum.apache.org/ Continuum]: sob licença [http://continuum.apache.org/license.html The Apache Software License, Version 2.0]
- * [http://www.atlassian.com/software/bamboo/overview Bamboo]. 
-  * 1 agente com 10 trabalhos por $ 10,00/mês
-  * 1 agente com trabalhos ilimitados por $ 50,00/mês
 
 ==Qualidade de software==
 ^fonte: http://www.sonarsource.com^
