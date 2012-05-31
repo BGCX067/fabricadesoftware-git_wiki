@@ -62,6 +62,7 @@ A ferramenta de gestão de repositórios maven será mantida nos servidores da [
   * Schedeuled tasks
   * REST Services
   * Nexus API plugin
+
  * [http://www.sonatype.com/Request/Free-Trial/Free-Nexus-Professional-Trial Nexus PRO]. [http://www.sonatype.com/Products/Nexus-Professional/Purchase Licença adquirida anualmente]
   * Todas funcionalidades do [http://www.sonatype.org/nexus/go Nexus OS]
   * LDAP Integration
@@ -70,5 +71,8 @@ A ferramenta de gestão de repositórios maven será mantida nos servidores da [
   * Maven Settings Management
   * Artifact Validation and Verification
 
- * [http://www.jfrog.org/sites/artifactory/latest/ Artifactory] sob licença [http://www.gnu.org/licenses/lgpl-3.0.html LGPL-v3.0]. Na experiencia com essa ferramenta, ela substituiu o [http://archiva.apache.org/ Archiva]
+ * [http://www.jfrog.com/products.php Artifactory Open Source] sob licença [http://www.gnu.org/licenses/lgpl-3.0.html LGPL-v3.0]
+
+ * [http://www.jfrog.com/pro-features.php Artifactory Pro] sob [http://www.jfrog.com/addons.php licença anual]
+
  * [http://archiva.apache.org/ Archiva] sob licença [http://www.apache.org/licenses/  Apache License, version 2.0]. Já tivemos experiência negativa com ele, com falhas grosseiras no comportamento do software.
