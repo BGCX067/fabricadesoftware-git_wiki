@@ -63,7 +63,7 @@ A ferramenta de gestão de repositórios maven será mantida nos servidores da [
   * REST Services
   * Nexus API plugin
 
- * [http://www.sonatype.com/Request/Free-Trial/Free-Nexus-Professional-Trial Nexus PRO]. [http://www.sonatype.com/Products/Nexus-Professional/Purchase Licença adquirida anualmente]
+ * [http://www.sonatype.com/Request/Free-Trial/Free-Nexus-Professional-Trial Nexus PRO] sob [http://www.sonatype.com/Products/Nexus-Professional/Purchase licença anual]
   * Todas funcionalidades do [http://www.sonatype.org/nexus/go Nexus OS]
   * LDAP Integration
   * Nexus Procurement Suite
