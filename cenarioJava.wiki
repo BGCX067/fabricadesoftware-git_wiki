@@ -68,7 +68,7 @@ A ferramenta de gestão de repositórios maven será mantida nos servidores da [
   * Integração flexível com LDAP
   * Restrição de artefatos em um determinado repositório remoto
   * Permite avaliar um artefato, que posteriormente pode ser promovido ou descartado
-  * Gerenciamento de arquivos "settings.xml"
+  * Gerenciamento de arquivos "settings.xml", substituição automatica através do nexus plugin a partir de um template.
   * Realiza a validação da assinatura PGP de cada artefato e permite criar novas verificações por artefato.
 
  * [http://www.jfrog.com/products.php Artifactory Open Source] sob licença [http://www.gnu.org/licenses/lgpl-3.0.html LGPL-v3.0]
@@ -80,6 +80,7 @@ A ferramenta de gestão de repositórios maven será mantida nos servidores da [
   * Pesquisa de artefatos atravez da indexação de artefatos
   * Agendar tarefas para manutenção dos artefatos
   * Serviços disponíveis utilizando API REST
+  * Geração automatica do "settings.xml"
 
  * [http://www.jfrog.com/pro-features.php Artifactory Pro] sob [http://www.jfrog.com/addons.php licença anual]
 
