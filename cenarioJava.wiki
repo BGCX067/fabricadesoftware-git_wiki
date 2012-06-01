@@ -72,6 +72,14 @@ A ferramenta de gestão de repositórios maven será mantida nos servidores da [
   * Realiza a validação da assinatura PGP de cada artefato e permite criar novas verificações por artefato.
 
  * [http://www.jfrog.com/products.php Artifactory Open Source] sob licença [http://www.gnu.org/licenses/lgpl-3.0.html LGPL-v3.0]
+  * Hospedar os próprios repositórios
+  * Proxy para repositórios remotos
+  * Grupos de repositórios
+  * Modelo de segurança que permite customização de acessos a grupos de indivíduos quanto a indivíduos
+  * Clusterização
+  * Pesquisa de artefatos atravez da indexação de artefatos
+  * Agendar tarefas para manutenção dos artefatos
+  * Serviços disponíveis utilizando API REST
 
  * [http://www.jfrog.com/pro-features.php Artifactory Pro] sob [http://www.jfrog.com/addons.php licença anual]
 
