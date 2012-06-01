@@ -83,5 +83,8 @@ A ferramenta de gestão de repositórios maven será mantida nos servidores da [
   * Geração automatica do "settings.xml"
 
  * [http://www.jfrog.com/pro-features.php Artifactory Pro] sob [http://www.jfrog.com/addons.php licença anual]
+  * Permite maior integracao de software de integracao continua com os artefatos gerados
+  * Analize das licenças das dependencias dos builds
+  * Replicação de repositórios
 
  * [http://archiva.apache.org/ Archiva] sob licença [http://www.apache.org/licenses/  Apache License, version 2.0]. Já tivemos experiência negativa com ele, com falhas grosseiras no comportamento do software.
