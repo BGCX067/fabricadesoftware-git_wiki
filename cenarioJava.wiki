@@ -15,11 +15,10 @@ Nos projetos Java serão utilizados:
  * [http://code.google.com/p/fabricadesoftware/wiki/IntegracoesCubeonNetbeans Cubeon] - Conecta [http://netbeans.org/ Netbeans] ao repositório de tarefas
  
 ==Integração continua==
-O serviço de integração continua será mantido nos servidores da [http://fs.inf.ufg.br/ Fábrica de Software] devido aos altos valores cobrados para utilizarmos esse recurso nas nuvens.
+O serviço de integração continua será mantido nos servidores da [http://fs.inf.ufg.br/ Fábrica de Software] afim de reduzirmos o custo operacional do projeto.
 
-Devido a maioria dos projetos da Fábrica de Software serem desenvolvidos utilizando metodologias ágeis, os integrantes contribuem diariamente com atualizações, customizações e correções do sistema. Devido a dinamicidade do código fonte, é possível que em vários momentos sejam incluidos erros no projeto que serão descobertos futuramente, quando vários integrantes já terão contribuido para o projeto, em cima de um código falho.
-Diante do problema da descoberta tardia de um erro, a solução seria a verificação da consistencia do código fonte sempre após uma contribuição. Com essa política, os erros são detectados imediatamente após a contribuição, o que permite o ínicio da solução.
-A Fábrica de Software enfrenta esse problema com ferramenta de integração continua. A verificação de consistencia do código fonte é executada automaticamente sempre após uma contribuição identificando os erros e agilizando o processo de solução do problema.
+A maioria dos projetos da Fábrica de Software utilizam metodologias ágeis e como consequência os integrantes contribuem diariamente com atualizações, customizações e correções do sistema. Devido a dinamicidade do código fonte, é possível que em vários momentos sejam incluidos erros no projeto que não serão detectados imediatamente mas futuramente. Diante da detecção tardia da falha, possivelmente vários integrantes já terão contribuido para o projeto, em cima de um código falho.
+A solução seria a verificação da consistencia do código fonte sempre após uma contribuição. Na Fábrica de Software o software de integração continua é executado automaticamente sempre após uma contribuição identificando os erros e agilizando o processo de solução do problema.
 
 As possíveis ferramentas de integração continua da fábrica de software são:
  * [http://hudson-ci.org/ Hudson]: licençiado sob MIT license. Hudson disponibiliza várias versões para utilização, existem as versões nativas para SOs selecionados e a versão "war" para um servidor de containers.Os plugins para subversion e maven fazem parte do núcleo do hudson, portanto, são distribuidos juntamente com o Hudson, bastando configura-los.
