@@ -47,6 +47,7 @@ O plano oferece
  * No site informa: "Your own, private Bugzilla installation"
  * Integra com eclipse-mylyn e netbeans-cubeon
 Desvantagens
+ * Não oferece repositório git
  * Limite de 1GB dos repositórios
 
 ===[https://projectlocker.com/scenario/startup Project Locker]===
