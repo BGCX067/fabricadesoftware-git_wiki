@@ -35,7 +35,7 @@ Suas desvantagens são:
  * Limite de 20 usuários
 
 ===[http://www.hosted-projects.com/index.php?option=com_content&view=article&id=12&Itemid=31 Hosted-projects]===
-^atualizado em 07/05/2012^<br>
+^atualizado em 04/06/2012^<br>
 O plano "Team" pelos preços:
  * 1 Mês: $ 15,00
  * 3 Meses: $ 40,00
