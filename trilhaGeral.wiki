@@ -9,6 +9,6 @@ Como versionador de código fonte há 2(duas) alternativas:
  * [http://subversion.apache.org/ subvesion]
 
 = Banco de dados =
-Como banco de dados utilizaremos dispomos de 2(duas) soluções complementares:
+Como banco de dados dispomos de 2(duas) soluções complementares:
  * [http://www.sqlite.org/ SQLite]: banco para interatividade logal
  * [http://www.mysql.com/ MySQL]: banco de dados para funcionalidade servidora
