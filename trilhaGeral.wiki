@@ -1,0 +1,14 @@
+#summary Levantamento de ferramentas necessárias em todos projetos
+
+= Introdução =
+O objetivo dessa seção é listar as ferramentas utilizadas independente da tecnologia utilizada no projeto.
+
+= Versionador de código fonte =
+Como versionador de código fonte há 2(duas) alternativas: 
+ * [http://git-scm.com/ git]
+ * [http://subversion.apache.org/ subvesion]
+
+= Banco de dados =
+Como banco de dados utilizaremos dispomos de 2(duas) soluções complementares:
+ * [http://www.sqlite.org/ SQLite]: banco para interatividade logal
+ * [http://www.mysql.com/ MySQL]: banco de dados para funcionalidade servidora
