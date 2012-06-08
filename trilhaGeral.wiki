@@ -5,7 +5,7 @@ O objetivo dessa seção é listar as ferramentas utilizadas independente da tec
 
 = Versionador de código fonte =
 Como versionador de código fonte há 2(duas) alternativas: 
- * [http://git-scm.com/ git]
+ * [http://git-scm.com/ git]: licençiado sob [http://www.opensource.org/docs/osd GPLv2]
  * [http://subversion.apache.org/ subvesion]: licençiado sob [http://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0]
 
 = Banco de dados =
