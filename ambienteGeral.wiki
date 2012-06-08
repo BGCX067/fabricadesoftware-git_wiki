@@ -69,8 +69,3 @@ Plano "Pro-small" $5,00/mês
  * Facil escalabilidade, para contratar plano de 5 gb é $ 10,00/mês
 Desvantagens
  * Trac disponibilizado enfrenta dificuldades na integração com netbeans
-
-===[http://www.atlassian.com/software/jira/overview?_mid=cdfe7013ff6b36bac140ef185060a568&gclid=CNr7uZLww68CFZFR7Aod5gxWbA Jira]===
-^atualizado em 07/05/2012^<br>
- * Limitado em 10 usuários por $10,00/mês.
- * Não disponibiliza repositório subversion, contudo, oferece [https://plugins.atlassian.com/plugins/com.atlassian.jira.plugin.ext.subversion plug-in de integração] gratuito sob a [http://www.opensource.org/licenses/bsd-license.php licença OSI] e o serviço [http://www.atlassian.com/software/fisheye/overview FishEye], que também é pago.
