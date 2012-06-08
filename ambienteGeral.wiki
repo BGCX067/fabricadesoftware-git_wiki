@@ -3,8 +3,8 @@
 =Detalhes =
 A Fábrica de Software, a principio atenderá a dois tipos de projetos: Open source e privados. 
 Em ambos os requisitos essenciais são:
- * Versionador de código fonte
- * Repositório de tarefas
+ * Versionador de código fonte: [http://subversion.apache.org/ Subversion] ou [http://git-scm.com Git]
+ * Repositório de tarefas[http://trac.edgewall.org/ Trac]
  * Ferramenta de wiki
 
 Esses requisitos são atendidos atravéz da contratação de um fornecedor.
