@@ -1,14 +1,4 @@
-#summary Documentação do conjunto de ferramentas utilizadas em projetos Java
-
-=Detalhes =
-A Fábrica de Software, a principio atenderá a dois tipos de projetos: Open source e privados. 
-Em ambos os requisitos essenciais são:
- * Versionador de código fonte: [http://subversion.apache.org/ Subversion] ou [http://git-scm.com Git]
- * Repositório de tarefas
- * Ferramenta de wiki
-
-Esses requisitos são atendidos atravéz da contratação de um fornecedor.
-Abaixo segue possíveis fornecedores de acordo com o tipo do projeto.
+#summary Documentação da lista de possíveis fornecedores de repositório de tarefas, wiki e código fonte
 
 ==Open-source==
 ^atualizado em 04/06/2012^<br>
