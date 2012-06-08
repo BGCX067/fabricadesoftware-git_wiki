@@ -10,5 +10,5 @@ Como versionador de código fonte há 2(duas) alternativas:
 
 = Banco de dados =
 Como banco de dados dispomos de 2(duas) soluções complementares:
- * [http://www.sqlite.org/ SQLite]: banco para fins de testes e uso local.
- * [http://www.mysql.com/ MySQL]: banco de dados para fins de produção.
+ * [http://www.sqlite.org/ SQLite]: Software sob [http://www.sqlite.org/copyright.html domínio público] para fins de testes e uso local.
+ * [http://www.mysql.com/ MySQL]: Licençiado sob [http://www.gnu.org/licenses/old-licenses/gpl-2.0.html gpl-2.0]. Utilizado para fins de produção.
