@@ -70,3 +70,15 @@ Plano "Pro-small" $5,00/mês
  * Facil escalabilidade, para contratar plano de 5 gb é $ 10,00/mês
 Desvantagens
  * Trac disponibilizado enfrenta dificuldades na integração com netbeans
+
+===[https://github.com/plans GitHub]===
+^atualizado em 08/06/2012^<br>
+Plano Small $12,00/mês
+ * Número ilimitado de repositórios git públicos.
+ * Wiki
+ * Repositório de tarefas
+ * Ferramentas adicionais
+ * Número ilimitado de colaboradores
+Desvantagens
+ * Limite de 10 repositórios git privados.
+ * Não oferece repositório subversion
