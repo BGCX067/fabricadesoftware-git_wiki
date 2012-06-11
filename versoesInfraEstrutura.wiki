@@ -1,0 +1,23 @@
+#summary Versionar as ferramentas de software utilizada na fábrica de software
+
+= Trilha Geral =
+|| *Ferramenta* || *Versão* ||
+|| [http://subversion.apache.org/ Subversion] || 1.6.x ou superior ||
+|| [http://git-scm.com/ Git] || 1.7.x ou superior ||
+|| [http://trac.edgewall.org/ Trac] || 0.11 ou superior ||
+|| [http://www.mysql.com/ Mysql] || 5.5.x ou superior ||
+|| [http://www.sqlite.org/ SqlLite] || 3.7.13 ou superior ||
+
+
+= Trilha Java =
+
+|| *Ferramenta* || *Versão* ||
+|| [http://maven.apache.org/ Maven] || 2.2.1 ou superior ||
+|| [http://www.gradle.org/ Gradle] || 1.0-rc-3 ou superior ||
+|| [http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/indigosr2 Eclipse IDE for Java EE Developers]||3.7.* ou superior ||
+|| [http://netbeans.org/ Netbeans] || 7.1.x ou superior ||
+|| [http://www.eclipse.org/mylyn/ Mylyn] || 3.7.x ou superior ||
+|| [http://code.google.com/p/cubeon/ Cubeon] || 1.2.x ou superior ||
+|| [http://hudson-ci.org/ Hudson] || 2.2.x ou superior ||
+|| [http://www.sonarsource.org/ Sonar] || 3.0.x ou superior ||
+|| [http://www.jfrog.com/products.php Artifactory] || 2.6.x ou superior ||
