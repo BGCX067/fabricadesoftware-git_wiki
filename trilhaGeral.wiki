@@ -8,6 +8,14 @@ Como versionador de código fonte há 2(duas) alternativas:
  * [http://git-scm.com/ git]: licençiado sob [http://www.opensource.org/docs/osd GPLv2]
  * [http://subversion.apache.org/ subvesion]: licençiado sob [http://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0]
 
+= Repositório de tarefas =
+Para cada tipo de projeto(Open source ou privado) existe um repositório definido
+ * [http://trac.edgewall.org/ Trac] para projetos privados. Licençiado sob [http://trac.edgewall.org/wiki/TracLicense BSD license]
+ * [http://code.google.com Googlecode] sob o [http://www.google.com/intl/pt-BR/policies/terms/ termo de serviço].
+
+= Ferramenta de wiki =
+Ferramenta para definições específicas do projeto.
+
 = Banco de dados =
 Como banco de dados dispomos de 2(duas) soluções complementares:
  * [http://www.sqlite.org/ SQLite]: Software sob [http://www.sqlite.org/copyright.html domínio público] para fins de testes e uso local.
