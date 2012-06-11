@@ -14,7 +14,7 @@ Para cada tipo de projeto(Open source ou privado) existe um repositório definid
  * [http://code.google.com Googlecode] sob o [http://www.google.com/intl/pt-BR/policies/terms/ termo de serviço].
 
 = Ferramenta de wiki =
-Ferramenta para definições específicas do projeto.
+Ferramenta para definições específicas do projeto. A ferramenta utilizada será a oferecida pelo [http://code.google.com/p/fabricadesoftware/wiki/fornecedoresDeAmbientes fornecedor da infra estrutara].
 
 = Banco de dados =
 Como banco de dados dispomos de 2(duas) soluções complementares:
