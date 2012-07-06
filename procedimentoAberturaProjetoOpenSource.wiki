@@ -1,5 +1,5 @@
 #Procedimento interno da fábrica de Software para abertura do projeto open source
-
+==Google code==
 ===Criar projeto no google code===
 Após a [http://code.google.com/p/fabricadesoftware/wiki/requisitarAberturaProjetoOpenSource solicitação de criação de projeto open source] e de sua aprovação, [http://code.google.com/hosting/createProject criar um projeto] no [http://code.google.com/ portal google code] a partir dos dados da solicitação.
 http://fabricadesoftware.googlecode.com/files/aberturaProjetoGoogleCode.png
