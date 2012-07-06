@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#Procedimento interno da fábrica de Software para abertura do projeto open source
 
 = Introduction =
 
