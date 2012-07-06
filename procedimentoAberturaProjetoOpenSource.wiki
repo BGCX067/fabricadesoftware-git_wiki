@@ -13,3 +13,6 @@ Atualizar a página principal da fábrica de software, informando um novo projet
  * Nome do responsável do projeto
  * Email do responsável do projeto
 http://fabricadesoftware.googlecode.com/files/projetosEmAndamento.png
+
+===Submeter estrutura inicial do projeto java===
+Criar o projeto maven java inicial e submete-lo como a versão 1 do projeto recém criado.
