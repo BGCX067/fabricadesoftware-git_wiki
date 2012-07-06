@@ -1,3 +1,15 @@
 #Procedimento interno da fábrica de Software para abertura do projeto open source
 
- # Após a [http://code.google.com/p/fabricadesoftware/wiki/requisitarAberturaProjetoOpenSource solicitação de criação de projeto open source] e de sua aprovação, criar um projeto no portal [http://code.google.com google code] a partir dos dados da solicitação. O email informado na solicitação como responsável pelo projeto será adicionado como "Committer" no projeto. http://fabricadesoftware.googlecode.com/files/adicionarMembroProjeto.png
+===Criar projeto no google code===
+Após a [http://code.google.com/p/fabricadesoftware/wiki/requisitarAberturaProjetoOpenSource solicitação de criação de projeto open source] e de sua aprovação, [http://code.google.com/hosting/createProject criar um projeto] no [http://code.google.com/ portal google code] a partir dos dados da solicitação.
+http://fabricadesoftware.googlecode.com/files/aberturaProjetoGoogleCode.png
+
+===Adicionar o responsavel como membro do projeto===
+ # O email informado na solicitação como responsável pelo projeto será adicionado como "Committer" no projeto. http://fabricadesoftware.googlecode.com/files/adicionarMembroProjeto.png
+
+===Atualizar home da [http://code.google.com/p/fabricadesoftware/ fábrica de software]===
+Atualizar a página principal da fábrica de software, informando um novo projeto open source com as seguintes informações:
+ * Nome do projeto
+ * Nome do responsável do projeto
+ * Email do responsável do projeto
+http://fabricadesoftware.googlecode.com/files/projetosEmAndamento.png
