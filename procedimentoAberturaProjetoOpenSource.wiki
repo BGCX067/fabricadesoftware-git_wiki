@@ -1,13 +1,3 @@
 #Procedimento interno da fábrica de Software para abertura do projeto open source
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ # Após a [http://code.google.com/p/fabricadesoftware/wiki/requisitarAberturaProjetoOpenSource solicitação de criação de projeto open source] e de sua aprovação, criar um projeto no portal [http://code.google.com google code] a partir dos dados da solicitação. O email informado na solicitação como responsável pelo projeto será adicionado como "Committer" no projeto. http://fabricadesoftware.googlecode.com/files/adicionarMembroProjeto.png
