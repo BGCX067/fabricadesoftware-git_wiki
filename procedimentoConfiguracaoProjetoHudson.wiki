@@ -1,8 +1,21 @@
 #summary Configurar novo projeto
 
-Ao configurar um novo projeto no hudson,
-Descartar Construções Antigas
-Gerenciamento de Código Fonte
+==Nova tarefa no [http://fs.inf.ufg.br:8080/hudson hudson]==
+Ao solicitar uma nova tarefa ao [http://fs.inf.ufg.br:8080/hudson hudson], informar o nome e o tipo de construção, como descrito na imagem abaixo.
+
+http://fabricadesoftware.googlecode.com/files/novoProjetoMaven.png
+
+==Configurar nova tarefa==
+===Descartar Construções Antigas===
+Para desocupar espaço em hardware ocupado por construções antigas, limitar o armazenamento das tais em no máximo 5(cinco), conforme imagem abaixo
+http://fabricadesoftware.googlecode.com/files/descartarConstrucoesAntigas.png
+
+===Habilitar o responsável do projeto===
+Habilitar o responsável pelo projeto a solicitar novas construções da tarefa no hudson, conforme imagem abaixo.
+http://fabricadesoftware.googlecode.com/files/habilitarGerenteParaIniciarNovaConstrucaoDaTarefa.png
+
+===Gerenciamento de Código Fonte===
+http://fabricadesoftware.googlecode.com/files/configurarSubversion.png
 Disparadores de Construção
 Notificação de E-mail
 Artifactory Configuration
