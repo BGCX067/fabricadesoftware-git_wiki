@@ -1,0 +1,9 @@
+#summary Configurar novo projeto
+
+Ao configurar um novo projeto no hudson,
+Descartar Construções Antigas
+Gerenciamento de Código Fonte
+Disparadores de Construção
+Notificação de E-mail
+Artifactory Configuration
+Habilitar sonar
