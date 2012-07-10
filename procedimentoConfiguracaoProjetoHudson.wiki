@@ -15,8 +15,19 @@ Habilitar o responsável pelo projeto a solicitar novas construções da tarefa 
 http://fabricadesoftware.googlecode.com/files/habilitarGerenteParaIniciarNovaConstrucaoDaTarefa.png
 
 ===Gerenciamento de Código Fonte===
-http://fabricadesoftware.googlecode.com/files/configurarSubversion.png
-Disparadores de Construção
-Notificação de E-mail
-Artifactory Configuration
-Habilitar sonar
+Para configurar o subversion basta informar a URL. Devido o projeto ser open source, não é necessário informações de autenticação.
+http://fabricadesoftware.googlecode.com/files/configurarSubversionTemplate.png
+
+===Disparadores de construção automática===
+Habilitar a construção de snapshot e a consulta periódica ao repositório.
+http://fabricadesoftware.googlecode.com/files/disparadorConstrucao.png
+
+===Notificação de E-mail===
+Informe os emails a serem disparados em caso de falha
+http://fabricadesoftware.googlecode.com/files/dispararEmailQuandoFalha.png
+
+===Artifactory Configuration===
+http://fabricadesoftware.googlecode.com/files/deployToArtifactory.png
+
+===Habilitar sonar===
+http://fabricadesoftware.googlecode.com/files/habilitarSonar.png
