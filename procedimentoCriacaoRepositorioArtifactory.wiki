@@ -17,3 +17,7 @@ http://fabricadesoftware.googlecode.com/files/criarUsuarioViewer.png
 http://fabricadesoftware.googlecode.com/files/addRepositorioAPermissao.png
 ===Habilitar operações aos usuários===
 http://fabricadesoftware.googlecode.com/files/habilitaPermissoesAoUsuario.png
+
+==Configurar pom.xml==
+
+==Configurar settings.xml==
