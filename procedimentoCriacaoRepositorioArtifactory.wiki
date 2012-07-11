@@ -14,8 +14,10 @@ http://fabricadesoftware.googlecode.com/files/criarRepositorioRelease.png
 ==Criar usuário==
 [http://fs.inf.ufg.br:8080/artifactory/webapp/users.html Criar um usuário] com permissão de realizar deploy no repositório e outro com permissão para acessar o repositório.
 ===Usuário deployer===
+Assegurar que a opção "Can Update Profile" esta marcada.
 http://fabricadesoftware.googlecode.com/files/criarUsuarioDeployer.png
 ===Usuário viewer===
+Assegurar que a opção "Can Update Profile" esta *des*marcada.
 http://fabricadesoftware.googlecode.com/files/criarUsuarioViewer.png
 
 ==Criar nova permissão==
