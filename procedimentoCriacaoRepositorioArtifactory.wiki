@@ -3,7 +3,8 @@
 ==Criação de novos repositórios==
 Url do artifactory: 
  [http://fs.inf.ufg.br:8080/artifactory/]
-Devem ser criados 2(dois) repositórios([Local Repositories Admin::Repositories::Local Repositories::new]) no artifactory, um para release outro para snapshot.
+[http://fs.inf.ufg.br:8080/artifactory/webapp/repositoryconfig.html Criar 2(dois) repositórios no artifactory], um para release outro para snapshot.
+
 
 ===Repositório snapshot===
 http://fabricadesoftware.googlecode.com/files/criarRepositorioSnapshot.png
