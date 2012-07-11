@@ -6,14 +6,13 @@ Url do artifactory:
 ==Criação de novos repositórios==
 [http://fs.inf.ufg.br:8080/artifactory/webapp/repositoryconfig.html Criar 2(dois) repositórios locais no artifactory], um para release outro para snapshot.
 
-
 ===Repositório snapshot===
 http://fabricadesoftware.googlecode.com/files/criarRepositorioSnapshot.png
 ===Repositório release===
 http://fabricadesoftware.googlecode.com/files/criarRepositorioRelease.png
 
 ==Criar usuário==
-Criar um usuário com permissão de realizar deploy no repositório e outro com permissão para acessar o repositório.
+[http://fs.inf.ufg.br:8080/artifactory/webapp/users.html Criar um usuário] com permissão de realizar deploy no repositório e outro com permissão para acessar o repositório.
 ===Usuário deployer===
 http://fabricadesoftware.googlecode.com/files/criarUsuarioDeployer.png
 ===Usuário viewer===
