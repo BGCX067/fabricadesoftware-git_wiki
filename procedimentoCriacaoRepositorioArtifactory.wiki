@@ -14,14 +14,14 @@ http://fabricadesoftware.googlecode.com/files/criarRepositorioRelease.png
 ==Criar usuário==
 [http://fs.inf.ufg.br:8080/artifactory/webapp/users.html Criar um usuário] com permissão de realizar deploy no repositório e outro com permissão para acessar o repositório.
 ===Usuário deployer===
-Assegurar que a opção "Can Update Profile" esta marcada.<br/>
+Assegurar que a opção * "Can Update Profile" * esta marcada.<br/>
 http://fabricadesoftware.googlecode.com/files/criarUsuarioDeployer.png
 ===Usuário viewer===
-Assegurar que a opção "Can Update Profile" esta *des*marcada.<br/>
+Assegurar que a opção * "Can Update Profile" * esta DESmarcada.<br/>
 http://fabricadesoftware.googlecode.com/files/criarUsuarioViewer.png
 
 ==Criar nova permissão==
-Habilitar os acessos necessários nos repositórios aos usuários criados
+[http://fs.inf.ufg.br:8080/artifactory/webapp/acls.html Criar os acessos] necessários nos repositórios aos usuários criados
 ===Adicionar os novos repositórios criados a permissão nova permissão===
 http://fabricadesoftware.googlecode.com/files/addRepositorioAPermissao.png
 ===Habilitar operações aos usuários===
