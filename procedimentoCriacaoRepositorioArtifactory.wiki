@@ -1,13 +1,19 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+==Criação de novos repositórios==
+===Repositório snapshot===
+http://fabricadesoftware.googlecode.com/files/criarRepositorioSnapshot.png
+===Repositório release===
+http://fabricadesoftware.googlecode.com/files/criarRepositorioRelease.png
 
-Add your content here.
+==Criar usuário deployer==
+===Usuário deployer===
+http://fabricadesoftware.googlecode.com/files/criarUsuarioDeployer.png
+===Usuário viewer===
+http://fabricadesoftware.googlecode.com/files/criarUsuarioViewer.png
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+==Criar nova permissão==
+===Adicionar os novos repositórios criados a permissão nova permissão===
+http://fabricadesoftware.googlecode.com/files/addRepositorioAPermissao.png
+===Habilitar operações aos usuários===
+http://fabricadesoftware.googlecode.com/files/addPermissoesAoUsuario.png
