@@ -1,23 +1,22 @@
 #summary Criação de novo repositório no artifactory para novo projeto
 
 ==Criação de novos repositórios==
+Devem ser criados 2(dois) repositórios no artifactory, um para release outro para snapshot.
 ===Repositório snapshot===
 http://fabricadesoftware.googlecode.com/files/criarRepositorioSnapshot.png
 ===Repositório release===
 http://fabricadesoftware.googlecode.com/files/criarRepositorioRelease.png
 
 ==Criar usuário==
+Criar um usuário com permissão de realizar deploy no repositório e outro com permissão para acessar o repositório.
 ===Usuário deployer===
 http://fabricadesoftware.googlecode.com/files/criarUsuarioDeployer.png
 ===Usuário viewer===
 http://fabricadesoftware.googlecode.com/files/criarUsuarioViewer.png
 
 ==Criar nova permissão==
+Habilitar os acessos necessários nos repositórios aos usuários criados
 ===Adicionar os novos repositórios criados a permissão nova permissão===
 http://fabricadesoftware.googlecode.com/files/addRepositorioAPermissao.png
 ===Habilitar operações aos usuários===
 http://fabricadesoftware.googlecode.com/files/habilitaPermissoesAoUsuario.png
-
-==Configurar pom.xml==
-
-==Configurar settings.xml==
