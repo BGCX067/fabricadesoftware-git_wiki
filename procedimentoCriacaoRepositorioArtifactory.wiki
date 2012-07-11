@@ -16,4 +16,4 @@ http://fabricadesoftware.googlecode.com/files/criarUsuarioViewer.png
 ===Adicionar os novos repositórios criados a permissão nova permissão===
 http://fabricadesoftware.googlecode.com/files/addRepositorioAPermissao.png
 ===Habilitar operações aos usuários===
-http://fabricadesoftware.googlecode.com/files/addPermissoesAoUsuario.png
+http://fabricadesoftware.googlecode.com/files/habilitaPermissoesAoUsuario.png
