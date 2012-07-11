@@ -1,0 +1,11 @@
+#summary Configurar maven para integração com artifactory
+
+Existem 2(dois) modos de integração do maven com o artifactory:
+ * Resolução de dependência.
+ * Implantação de novos artefatos no servidor
+
+==Resolução de dependência==
+Para o artifactory resolver as dependência, em segurança, do projeto é necessário a configuração de 3(três) arquivos.
+ # pom.xml
+ # settings.xml
+ # settings-security.xml
