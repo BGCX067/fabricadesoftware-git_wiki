@@ -2,5 +2,4 @@
  # [http://code.google.com/p/fabricadesoftware/wiki/processoAberturaProjetoGoogleCode Abrir projeto no google code]
  # [http://code.google.com/p/fabricadesoftware/wiki/procedimentoCriacaoRepositorioArtifactory Criar repositório no artifactory]
  # [http://code.google.com/p/fabricadesoftware/wiki/procedimentoConfiguracaoProjetoHudson Criar nova tarefa no hudson]
- # 
-[http://code.google.com/p/fabricadesoftware/wiki/configurarMavenParaFuncionamentoComArtifactory Configurar maven para integrar com artifactory]
+ # [http://code.google.com/p/fabricadesoftware/wiki/configurarMavenParaFuncionamentoComArtifactory Configurar maven para integrar com artifactory]
