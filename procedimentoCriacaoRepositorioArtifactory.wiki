@@ -6,7 +6,7 @@ http://fabricadesoftware.googlecode.com/files/criarRepositorioSnapshot.png
 ===Repositório release===
 http://fabricadesoftware.googlecode.com/files/criarRepositorioRelease.png
 
-==Criar usuário deployer==
+==Criar usuário==
 ===Usuário deployer===
 http://fabricadesoftware.googlecode.com/files/criarUsuarioDeployer.png
 ===Usuário viewer===
