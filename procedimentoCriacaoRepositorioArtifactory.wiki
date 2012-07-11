@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Criação de novo repositório no artifactory para novo projeto
 
 ==Criação de novos repositórios==
 ===Repositório snapshot===
