@@ -1,8 +1,9 @@
 #summary Criação de novo repositório no artifactory para novo projeto
 
-==Criação de novos repositórios==
 Url do artifactory: 
  [http://fs.inf.ufg.br:8080/artifactory/]
+
+==Criação de novos repositórios==
 [http://fs.inf.ufg.br:8080/artifactory/webapp/repositoryconfig.html Criar 2(dois) repositórios locais no artifactory], um para release outro para snapshot.
 
 
