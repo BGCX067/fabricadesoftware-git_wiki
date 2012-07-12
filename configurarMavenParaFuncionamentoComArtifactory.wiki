@@ -15,3 +15,19 @@ Agora basta armazenar no arquivo "~/.m2/settings-security.xml" o seguinte conte�
 <settingsSecurity>
   <master>{97fAM2A4rl4HBcAuDN9ZKWuQnA4NH+X3gahfiQtHE+Q=}</master>
 </settingsSecurity>
+
+==Criptografar senhas do repositório==
+Após a definição da chave de criptografia já podemos armazenar em "~/.m2/settings.xml" nossa senhas do repositório criptografadas. O primeiro passo é criptografar a senha do repositório executando "mvn --encrypt-password senha" e armazenar a senha criptograda em "~/.m2/settings.xml" com o conteúdo:
+<settings>
+...
+  <servers>
+...
+    <server>
+      <id>repositório</id>
+      <username>usuario</username>
+      <password>senha criptografada</password>
+    </server>
+...
+  </servers>
+...
+</settings>
