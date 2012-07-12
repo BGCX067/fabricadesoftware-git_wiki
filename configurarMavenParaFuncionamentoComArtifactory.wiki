@@ -1,11 +1,17 @@
 #summary Configurar maven para integração com artifactory
 
-Existem 2(dois) modos de integração do maven com o artifactory:
- * Resolução de dependência.
- * Implantação de novos artefatos no servidor
+==Definir chave de criptografia==
+Para uso seguro de senhas do maven, é recomendado informa-las criptografadas. Definiremos uma chave de criptografia e armazenaremos em "~/.m2/settings-security.xml".
 
-==Resolução de dependência==
-Para o artifactory resolver as dependência do projeto, em segurança, é necessário a configuração de 3(três) arquivos.
- # pom.xml
- # settings.xml
- # settings-security.xml
+Para criptografar uma chave de criptografia, execute:
+ * mvn --encrypt-master-password senha
+Após o retorno da senha criptografada, armazene no arquivo "~/.m2/settings-security.xml" o seguinte conteúdo:
+<settingsSecurity>
+  <master>senha criptografada</master>
+</settingsSecurity>
+
+ex.: supomos que a chave de criptografia seja *chave-inf*. Após executarmos: *mvn --encrypt-master-password chave-inf* uma possível criptografia para essa chave é *{97fAM2A4rl4HBcAuDN9ZKWuQnA4NH+X3gahfiQtHE+Q=}*.
+Agora basta armazenar no arquivo "~/.m2/settings-security.xml" o seguinte conteúdo:
+<settingsSecurity>
+  <master>{97fAM2A4rl4HBcAuDN9ZKWuQnA4NH+X3gahfiQtHE+Q=}</master>
+</settingsSecurity>
