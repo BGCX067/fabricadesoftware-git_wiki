@@ -1,0 +1,12 @@
+#summary Estudo de ferramentas open-source bpm
+
+As seguintes ferramentas open source serão analisadas:
+ # [http://bpms.intalio.com/ Intalio]
+ # [http://www.processmaker.com/ ProcessMaker]
+ # [http://www.bonitasoft.com/ BonitaSoft]
+ # [http://activiti.org/ Activiti]
+ # [http://www.uengine.org/ UEngine]
+ # [http://www.cuteflow.org/ Cuteflow]
+ # [http://www.eclipse.org/epf/ Eclipse Process Framework Project (EPF)]
+
+==[http://bpms.intalio.com/ Intalio]==
