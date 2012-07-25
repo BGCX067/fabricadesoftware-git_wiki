@@ -4,8 +4,8 @@ Seguindo o fluxo do [http://code.google.com/p/fabricadesoftware/wiki/procediment
 
 ==EMAIL PADRÃO==
 
-Ola _____________,<br/>
-Voce foi adicionado como committer no projeto [http://url.correta.projeto xxxx] atravéz do seu email ________________.<br/>
+Ola ---------,<br/>
+Voce foi adicionado como committer no projeto [http://url.correta.projeto xxxx] atravéz do seu email ---------.<br/>
 Juntamente com o projeto no google code, foram criados as seguintes contas nos nossos serviços.
 
 *artifactory* - http://fs.inf.ufg.br:8080/artifactory
