@@ -27,7 +27,7 @@ Informe os emails a serem disparados em caso de falha
 http://fabricadesoftware.googlecode.com/files/dispararEmailQuandoFalha.png
 
 ===Artifactory Configuration===
-http://fabricadesoftware.googlecode.com/files/deployArtifactory.png
+http://fabricadesoftware.googlecode.com/files/hudsonDeployToArtifactory.png
 
 ===Habilitar sonar===
 http://fabricadesoftware.googlecode.com/files/habilitarSonar.png
