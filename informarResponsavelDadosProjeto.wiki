@@ -2,10 +2,11 @@
 
 Seguindo o fluxo do [http://code.google.com/p/fabricadesoftware/wiki/procedimentoAberturaProjetoOpenSource procedimento de abertura do projeto] todas as contas em todas as ferramentas foram criadas. Para finalizar é necessário enviar um email para o responsável pelo projeto informando que o projeto e suas ferramentas de apoio estão prontos para serem utilizados. Segue email padrão de informe ao responsável.
 
-EMAIL PADRÃO
-Ola _____________,
-Voce foi adicionado como committer no projeto do google code atravéz do seu email ________________.
-Juntamente com o projeto no google code, foram criados projetos no com respectivos usuários e senhas:
+==EMAIL PADRÃO==
+
+Ola _____________,<br/>
+Voce foi adicionado como committer no projeto [http://url.correta.projeto xxxx] atravéz do seu email ________________.<br/>
+Juntamente com o projeto no google code, foram criados as seguintes contas nos nossos serviços.
 
 artifactory:
 	usuário deployer: email do responsável
