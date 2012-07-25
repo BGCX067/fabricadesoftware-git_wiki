@@ -4,4 +4,4 @@
  # [http://code.google.com/p/fabricadesoftware/wiki/procedimentoConfiguracaoProjetoHudson Criar nova tarefa no hudson]
  # [http://code.google.com/p/fabricadesoftware/wiki/procedimentoCriacaoProjetoSonar Configurar novo projeto no sonar]
  # [http://code.google.com/p/fabricadesoftware/wiki/configurarMavenParaFuncionamentoComArtifactory Configurar maven para integrar com artifactory]
- #[http://code.google.com/p/fabricadesoftware/wiki/informarResponsavelDadosProjeto Informar o responsável sobre a criação do projeto e as respectivas ferramentas de apoio]
+ # [http://code.google.com/p/fabricadesoftware/wiki/informarResponsavelDadosProjeto Informar o responsável sobre a criação do projeto e as respectivas ferramentas de apoio]
