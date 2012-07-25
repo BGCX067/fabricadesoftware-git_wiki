@@ -8,19 +8,19 @@ Ola _____________,<br/>
 Voce foi adicionado como committer no projeto [http://url.correta.projeto xxxx] atravéz do seu email ________________.<br/>
 Juntamente com o projeto no google code, foram criados as seguintes contas nos nossos serviços.
 
-*artifactory - http://fs.inf.ufg.br:8080/artifactory*
+*artifactory* - http://fs.inf.ufg.br:8080/artifactory
  * usuário deployer: email do responsável
  * senha: xxxx
  * usuário leitura: nome da conta criada
  * senha: xxxx
 
-*hudson - http://fs.inf.ufg.br:8080/hudson*
+*hudson* - http://fs.inf.ufg.br:8080/hudson
  * usuário administrador:email do responsavel
  * senha: xxxx
  * usuário leitura: nome da conta criada
  * senha: xxxx
 
-*sonar - http://fs.inf.ufg.br:8080/sonar*
+*sonar* - http://fs.inf.ufg.br:8080/sonar
  * usuário administrador:email do responsavel
  * senha: xxxx
  * usuário leitura: nome da conta criada
