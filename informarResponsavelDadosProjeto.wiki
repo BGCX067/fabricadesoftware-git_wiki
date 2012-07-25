@@ -1,0 +1,26 @@
+#summary Informar responsável dados de ferramentas de apoio ao projeto recém criado, após o processo de abertura.
+
+Seguindo o fluxo do [http://code.google.com/p/fabricadesoftware/wiki/procedimentoAberturaProjetoOpenSource procedimento de abertura do projeto] todas as contas em todas as ferramentas foram criadas. Para finalizar é necessário enviar um email para o responsável pelo projeto informando que o projeto e suas ferramentas de apoio estão prontos para serem utilizados. Segue email padrão de informe ao responsável.
+
+EMAIL PADRÃO
+Ola _____________,
+Voce foi adicionado como committer no projeto do google code atravéz do seu email ________________.
+Juntamente com o projeto no google code, foram criados projetos no com respectivos usuários e senhas:
+
+artifactory:
+	usuário deployer: email do responsável
+	senha: xxxx
+	usuário leitura: conta criada no [http://fs.inf.ufg.br:8080/artifactory artifactory]
+	senha: xxxx
+
+hudson:
+	usuário administrador:email do responsavel
+	senha: xxxx
+	usuário leitura: conta criada no [http://fs.inf.ufg.br:8080/hudson/ hudson]
+	senha: xxxx
+
+sonar:
+	usuário administrador:email do responsavel
+	senha: xxxx
+	usuário leitura: conta criada no [http://fs.inf.ufg.br:8080/sonar/ sonar]
+	senha: xxxx
